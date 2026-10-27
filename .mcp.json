@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "ninjatrader-demo": {
-      "type": "http",
-      "url": "https://mcp-demo.tradovateapi.com/mcp"
-    }
-  }
-}
